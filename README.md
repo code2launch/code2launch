@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![code2launch Banner](https://user-images.githubusercontent.com/.../code2launch-banner.png)
+<img src="./cover.png"  />
 
 # 🚀 code2launch
 
@@ -10,9 +10,9 @@
 **We transform business ideas into production-ready digital solutions**  
 *Clean Code • Transparent Process • Measurable Results*
 
-[![Website](https://img.shields.io/badge/🌐_Website-code2launch.com-007acc?style=for-the-badge)](https://code2launch.com)
-[![Contact](https://img.shields.io/badge/📧_Contact-hello@code2launch.com-2ecc71?style=for-the-badge)](mailto:hello@code2launch.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-code2launch-0077b5?style=for-the-badge)](https://linkedin.com/company/code2launch)
+[![Website](https://img.shields.io/badge/🌐_Website-code2launch.com-007acc?style=for-the-badge)](https://code2launch.co)
+[![Contact](https://img.shields.io/badge/📧_Contact-code2launch.co@gmail.com-2ecc71?style=for-the-badge)](mailto:hello@code2launch.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-code2launch-0077b5?style=for-the-badge)](https://linkedin.com/company/code-2-launch)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-@code2launch-1da1f2?style=for-the-badge)](https://twitter.com/code2launch)
 
 ---
