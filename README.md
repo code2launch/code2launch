@@ -1,9 +1,9 @@
 
-<div align="center">
+<div align="">
 
 <img src="./cover.png"  />
 
-# 🚀 code2launch
+# Code 2 Launch
 
 ### **Your Technical Partner for Web Development**
 
