@@ -41,16 +41,49 @@ const code2launch = {
 };
 ```
 
+## Our Tech Stack
+
+<div align="">
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
 ## Featured Open Source
 
 ### Internal Tools We've Open-Sourced
 
-| Project                                                                  | Description                                          | Status                                                           |
-| ------------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------------------- |
-| [**CLI Starter**](https://github.com/code2launch/cli-starter)            | Modern CLI tool template with TypeScript             | ![Active](https://img.shields.io/badge/🟢_Active-2ecc71)         |
-| [**Component Library**](https://github.com/code2launch/ui-library)       | Reusable React components we use in production       | ![Active](https://img.shields.io/badge/🟢_Active-2ecc71)         |
-| [**Dev Templates**](https://github.com/code2launch/dev-templates)        | Docker, CI/CD, and deployment configurations         | ![Maintained](https://img.shields.io/badge/🔵_Maintained-3498db) |
-| [**Analytics Dashboard**](https://github.com/code2launch/analytics-dash) | Open-source analytics dashboard for small businesses | ![Beta](https://img.shields.io/badge/🟡_Beta-f1c40f)             |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/code2launch/cli-starter"><b>CLI Starter</b></a></td>
+      <td>Modern CLI tool template with TypeScript</td>
+      <td><img src="https://img.shields.io/badge/🟢_Active-2ecc71" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code2launch/ui-library"><b>Component Library</b></a></td>
+      <td>Reusable React components we use in production</td>
+      <td><img src="https://img.shields.io/badge/🟢_Active-2ecc71" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code2launch/dev-templates"><b>Dev Templates</b></a></td>
+      <td>Docker, CI/CD, and deployment configurations</td>
+      <td><img src="https://img.shields.io/badge/🔵_Maintained-3498db" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code2launch/analytics-dash"><b>Analytics Dashboard</b></a></td>
+      <td>Open-source analytics dashboard for small businesses</td>
+      <td><img src="https://img.shields.io/badge/🟡_Beta-f1c40f" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Our GitHub Activity
 
@@ -59,60 +92,33 @@ const code2launch = {
 <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=code2launch&theme=highcontrast&hide_border=true&card_width=1024" alt="GitHub Streak">
 </a>
+
 </div>
 
 ## The Team
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="140">
+    <td align="center" width="50%">
       <a href="https://github.com/obidyhasan">
-        <img src="https://media.licdn.com/dms/image/v2/D5603AQE6eBLGl1lifw/profile-displayphoto-scale_400_400/B56ZiLFUvTG4As-/0/1754680086108?e=1768435200&v=beta&t=LlE4MY2B8166cDTnI2cTXG0qyhtHU03dwTk3zibpEAk" width="100" style="border-radius:50%"/><br/>
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQE6eBLGl1lifw/profile-displayphoto-scale_400_400/B56ZiLFUvTG4As-/0/1754680086108?e=1768435200&v=beta&t=LlE4MY2B8166cDTnI2cTXG0qyhtHU03dwTk3zibpEAk" width="100" /><br/>
         <sub><b>Obidy Hasan Naim</b></sub><br/>
         <sub>Founder & CEO</sub>
       </a>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="50%">
       <a href="https://github.com/Rakibul-98">
-        <img src="https://media.licdn.com/dms/image/v2/D5603AQED3D1fP7G2DA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1685725817346?e=1768435200&v=beta&t=jRJ_AL80wqJL_LAgz59lR9tb4N4okGfSFi0NIyFte-A" width="100" style="border-radius:50%"/><br/>
-        <sub><b>Md Rakibul Hasan
- </b></sub><br/>
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQED3D1fP7G2DA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1685725817346?e=1768435200&v=beta&t=jRJ_AL80wqJL_LAgz59lR9tb4N4okGfSFi0NIyFte-A" width="100" /><br/>
+        <sub><b>Md Rakibul Hasan</b></sub><br/>
         <sub>Founder & CTO</sub>
       </a>
     </td>
   </tr>
 </table>
 
-_Both partners actively contribute to our open-source projects and client work._
-
-</div>
-
-## Our Tech Stack
-
-<div align="center">
-
-### Frontend
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+<em>Both partners actively contribute to our open-source projects and client work.</em>
 
 </div>
 
