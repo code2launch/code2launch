@@ -28,7 +28,7 @@ We help businesses launch and scale their digital presence through:
 | **Website Optimization**        | Performance, SEO, accessibility           | Faster loading & better user experience        |
 | **Technical Consulting**        | Architecture review, technology selection | Informed decisions & future-proof solutions    |
 
-## 🔧 Our Tech Philosophy
+## Our Tech Philosophy
 
 ```javascript
 // Our development approach in code
@@ -103,9 +103,9 @@ const code2launch = {
 
 ## The Team
 
-<div align="center">
+<div align="">
 
-<table width="100%">
+<table width="">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/obidyhasan">
@@ -134,9 +134,9 @@ We're always open to interesting projects and partnerships:
 
 ### For Clients
 
-- 🚀 **New Project Inquiry:** [Start a Project](https://code2launch.com/contact)
+- 🚀 **New Project Inquiry:** [Start a Project](https://code2launch.co)
 - 💼 **Existing Project:** Email your project manager directly
-- 📞 **Quick Chat:** [Schedule a Call](https://calendly.com/code2launch)
+- 📞 **Quick Chat:** [Schedule a Call](https://code2launch.co)
 
 ### For Developers
 
@@ -150,9 +150,9 @@ We're always open to interesting projects and partnerships:
 
 ### Ready to Launch Your Next Project?
 
-[![Contact Button](https://img.shields.io/badge/💬_Discuss_Your_Project-2ecc71?style=for-the-badge&logo=rocket-chat&logoColor=white)](https://code2launch.com/contact)
-[![Schedule Call](https://img.shields.io/badge/📅_Schedule_Call-9b59b6?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/code2launch)
-[![View Portfolio](https://img.shields.io/badge/📂_View_Portfolio-e74c3c?style=for-the-badge&logo=github&logoColor=white)](https://code2launch.com/work)
+[![Contact Button](https://img.shields.io/badge/💬_Discuss_Your_Project-2ecc71?style=for-the-badge&logo=rocket-chat&logoColor=white)](https://code2launch.co)
+[![Schedule Call](https://img.shields.io/badge/📅_Schedule_Call-9b59b6?style=for-the-badge&logo=google-calendar&logoColor=white)](https://code2launch.co)
+[![View Portfolio](https://img.shields.io/badge/📂_View_Portfolio-e74c3c?style=for-the-badge&logo=github&logoColor=white)](https://code2launch.co)
 
 ---
 
