@@ -9,20 +9,12 @@
 We partner with founders and teams who need reliable engineers—not freelancers who disappear after delivery.  
 Our focus is on **real-world software**, built with clean code, clear communication, and long-term maintainability in mind.
 
-[![Website](https://img.shields.io/badge/🌐_Website-code2launch.co-007acc?style=for-the-badge)](https://code2launch.co)
-[![Contact](https://img.shields.io/badge/📧_Contact-code2launch.co@gmail.com-2ecc71?style=for-the-badge)](mailto:code2launch.co@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-code2launch-0077b5?style=for-the-badge)](https://linkedin.com/company/code-2-launch)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-@code2launch-1da1f2?style=for-the-badge)](https://x.com/code2launch)
-
-<!-- --- -->
+[![Website](https://img.shields.io/badge/Website-code2launch.co-007acc?style=for-the-badge)](https://code2launch.co)
+[![Contact](https://img.shields.io/badge/Contact-code2launch.co@gmail.com-2ecc71?style=for-the-badge)](mailto:code2launch.co@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-code2launch-0077b5?style=for-the-badge)](https://linkedin.com/company/code-2-launch)
+[![Twitter](https://img.shields.io/badge/Twitter-@code2launch-1da1f2?style=for-the-badge)](https://x.com/code2launch)
 
 </div>
-
-<!-- ## 👋 Welcome to Our GitHub
-
-We're **code2launch**, a specialized web development agency built on partnership and technical excellence. This GitHub organization houses our internal tools, open-source contributions, and showcases our approach to modern web development. -->
-
-<!-- ## 🎯 What We Do -->
 
 ## What We Do
 
@@ -36,9 +28,7 @@ We help businesses launch and scale their digital presence through:
 | **Website Optimization**        | Performance, SEO, accessibility           | Faster loading & better user experience        |
 | **Technical Consulting**        | Architecture review, technology selection | Informed decisions & future-proof solutions    |
 
-<!-- ## 🔧 Our Tech Philosophy -->
-
-## Our Tech Philosophy
+## 🔧 Our Tech Philosophy
 
 ```javascript
 // Our development approach in code
@@ -51,11 +41,9 @@ const code2launch = {
 };
 ```
 
-<!-- ## 🏗️ Featured Open Source -->
-
 ## Featured Open Source
 
-### **Internal Tools We've Open-Sourced**
+### Internal Tools We've Open-Sourced
 
 | Project                                                                  | Description                                          | Status                                                           |
 | ------------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------------------- |
@@ -64,49 +52,34 @@ const code2launch = {
 | [**Dev Templates**](https://github.com/code2launch/dev-templates)        | Docker, CI/CD, and deployment configurations         | ![Maintained](https://img.shields.io/badge/🔵_Maintained-3498db) |
 | [**Analytics Dashboard**](https://github.com/code2launch/analytics-dash) | Open-source analytics dashboard for small businesses | ![Beta](https://img.shields.io/badge/🟡_Beta-f1c40f)             |
 
-<!-- ### **Community Contributions**
-
-We actively contribute to:
-
-- **Next.js** plugins and examples
-- **TypeScript** type definitions
-- **React** community libraries
-- **VSCode** extensions for web development -->
-
-<!-- ## 📊 Our GitHub Activity -->
-
 ## Our GitHub Activity
 
-<!-- <div align="center">
-
-### 📈 Organization Stats
-
-![code2launch Stats](https://github-readme-stats.vercel.app/api?username=code2launch&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide=issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code2launch&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&hide=html,css)
-
-</div> -->
-
-<!-- ## 👥 The Team -->
+<div align="left">
+  
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=code2launch&theme=highcontrast&hide_border=true&card_width=1024" alt="GitHub Streak">
+</a>
+</div>
 
 ## The Team
 
-<!-- <div align="center">
+<div align="center">
 
 <table>
   <tr>
     <td align="center" width="140">
-      <a href="https://github.com/your-username-1">
-        <img src="https://github.com/your-username-1.png" width="100" style="border-radius:50%"/><br/>
-        <sub><b>Technical Director</b></sub><br/>
-        <sub>Full-Stack Development</sub>
+      <a href="https://github.com/obidyhasan">
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQE6eBLGl1lifw/profile-displayphoto-scale_400_400/B56ZiLFUvTG4As-/0/1754680086108?e=1768435200&v=beta&t=LlE4MY2B8166cDTnI2cTXG0qyhtHU03dwTk3zibpEAk" width="100" style="border-radius:50%"/><br/>
+        <sub><b>Obidy Hasan Naim</b></sub><br/>
+        <sub>Founder & CEO</sub>
       </a>
     </td>
     <td align="center" width="140">
-      <a href="https://github.com/your-username-2">
-        <img src="https://github.com/your-username-2.png" width="100" style="border-radius:50%"/><br/>
-        <sub><b>Business Director</b></sub><br/>
-        <sub>Project Strategy & UX</sub>
+      <a href="https://github.com/Rakibul-98">
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQED3D1fP7G2DA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1685725817346?e=1768435200&v=beta&t=jRJ_AL80wqJL_LAgz59lR9tb4N4okGfSFi0NIyFte-A" width="100" style="border-radius:50%"/><br/>
+        <sub><b>Md Rakibul Hasan
+ </b></sub><br/>
+        <sub>Founder & CTO</sub>
       </a>
     </td>
   </tr>
@@ -114,52 +87,11 @@ We actively contribute to:
 
 _Both partners actively contribute to our open-source projects and client work._
 
-</div> -->
+</div>
 
-<!-- ## 🌟 Our Development Principles -->
+## Our Tech Stack
 
-<!-- ### **1. Code Quality First**
-
-- TypeScript for type safety
-- Comprehensive testing (unit, integration, E2E)
-- Clean architecture patterns
-- Code reviews for every PR
-
-### **2. Transparent Process**
-
-- Daily progress updates
-- Regular client demos
-- Open communication channels
-- Detailed documentation
-
-### **3. Security Conscious**
-
-- Regular dependency updates
-- Security scanning in CI/CD
-- OWASP best practices
-- Regular audits
-
-### **4. Performance Focused**
-
-- Lighthouse scores >90
-- Optimized asset delivery
-- Efficient database queries
-- CDN integration -->
-
-<!-- ## 📝 Latest from Our Blog -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- - [Building Scalable React Applications: Lessons from Production](https://blog.code2launch.com/scalable-react-apps)
-- [Why We Choose TypeScript for Every Project](https://blog.code2launch.com/typescript-benefits)
-- [Our CI/CD Pipeline: From Commit to Production in 15 Minutes](https://blog.code2launch.com/cicd-pipeline)
-- [Client Communication Strategies for Development Agencies](https://blog.code2launch.com/client-communication) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ## 🛠️ Our Tech Stack -->
-<!-- ## Our Tech Stack -->
-
-<div align="">
+<div align="center">
 
 ### Frontend
 
@@ -184,8 +116,6 @@ _Both partners actively contribute to our open-source projects and client work._
 
 </div>
 
-<!-- ## 🤝 Want to Collaborate? -->
-
 ## Want to Collaborate?
 
 We're always open to interesting projects and partnerships:
@@ -202,27 +132,21 @@ We're always open to interesting projects and partnerships:
 - 🤝 **Technical Partnerships:** Email us with your proposal
 - 💡 **Ideas & Feedback:** Open an issue on relevant repos
 
-<!-- ## 📬 Get in Touch -->
-
 ## Get in Touch
 
-<!-- <div align="center"> -->
 <div align="">
+
+### Ready to Launch Your Next Project?
 
 [![Contact Button](https://img.shields.io/badge/💬_Discuss_Your_Project-2ecc71?style=for-the-badge&logo=rocket-chat&logoColor=white)](https://code2launch.com/contact)
 [![Schedule Call](https://img.shields.io/badge/📅_Schedule_Call-9b59b6?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/code2launch)
 [![View Portfolio](https://img.shields.io/badge/📂_View_Portfolio-e74c3c?style=for-the-badge&logo=github&logoColor=white)](https://code2launch.com/work)
 
-<!-- ---
+---
 
-**📍 Remote-First Agency** • **🌍 Working Across Timezones** • **🕐 Response within 24 hours**
+<sub>© 2024 code2launch. All rights reserved.</sub><br/>
+<sub>Made with ❤️ by developers, for businesses that want to grow.</sub>
 
---- -->
-
-<sub>© 2026 Code2Launch. All rights reserved.</sub><br/>
-
-<!-- <sub>Made with ❤️ by developers, for businesses that want to grow.</sub>
-
-![Profile Views](https://komarev.com/ghpvc/?username=code2launch&color=58a6ff&style=flat-square) -->
+![Profile Views](https://komarev.com/ghpvc/?username=code2launch&color=58a6ff&style=flat-square)
 
 </div>
