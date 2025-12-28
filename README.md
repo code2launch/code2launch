@@ -49,9 +49,25 @@ const code2launch = {
 
 </div>
 
-## Featured Open Source
+## Our Development Principles
 
-### Internal Tools We've Open-Sourced
+| Phase       | Title                      | Key Activities                                                                                                                                                                                                                         |
+| ----------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Phase 1** | **Initial Meeting**        | • Use **Non-Disclosure Agreement (NDA)** for proprietary discussions<br>• Take detailed notes for **SRD** creation                                                                                                                     |
+| **Phase 2** | **Proposal Package**       | • Prepare **Statement of Requirements Document (SRD)**<br>• Create **Budget Estimate**<br>• Include **Client Service Agreement** (draft)<br>• Include **Privacy Policy** (reference)<br>• Email package with clear review instructions |
+| **Phase 3** | **Approval & Contract**    | • Receive signed approval for **SRD** and budget<br>• Finalize **Client Service Agreement**<br>• Collect **50% deposit** before work starts<br>• **KYC Check** for large projects                                                      |
+| **Phase 4** | **Project Execution**      | • Store signed contracts securely<br>• Use project management tools (Asana, Trello, etc.)<br>• Regular client check-ins<br>• Document scope changes with **Change Orders**                                                             |
+| **Phase 5** | **Delivery & Maintenance** | • Final payment before source code transfer (milestone-based possible)<br>• Provide **Project Documentation**<br>• Offer **Maintenance Agreement**<br>• Archive files for **2+ years**                                                 |
+
+<div align="left">
+  
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=code2launch&theme=highcontrast&hide_border=true&card_width=1024" alt="GitHub Streak">
+</a>
+
+</div>
+
+## Featured Open Source
 
 <table width="100%">
   <thead>
@@ -84,16 +100,6 @@ const code2launch = {
     </tr>
   </tbody>
 </table>
-
-## Our GitHub Activity
-
-<div align="left">
-  
-<a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=code2launch&theme=highcontrast&hide_border=true&card_width=1024" alt="GitHub Streak">
-</a>
-
-</div>
 
 ## The Team
 
